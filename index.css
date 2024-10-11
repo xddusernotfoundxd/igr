@@ -1,0 +1,22 @@
+.cvad{
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+	background-image: url(https://i.ytimg.com/vi/ZUbAufFsF64/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRyhVMA8=&amp;rs=AOn4CLDRyN0_4atYf5cW3rrSR8AffQt8mg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.dis{
+	background-image: url(https://64.media.tumblr.com/c4c8e3ee2300a3c9477a56debfc69893/f841abe4dcee2a5d-4a/s400x600/76104c88f31bc24049326e494de9809144529e33.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.red{
+	color: red;
+}
+body{
+	display: flex;
+	flex-flow: row wrap;
+}
